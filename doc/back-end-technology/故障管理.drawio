@@ -1,1 +1,157 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T19:25:22.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="k67DXhnNQpi49zNNBhWZ" version="20.7.2" type="device"><diagram id="kKjgs36Rn-yt-lqRU9-G" name="1.故障处理全流程">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</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="kKjgs36Rn-yt-lqRU9-G" name="1.故障处理全流程">
+        <mxGraphModel dx="649" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="13.93" y="250" width="786.07" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-2" value="监控预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="125" y="300" width="65" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-3" value="初步分析&lt;br&gt;故障、预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="300" width="83.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-4" value="应急止血" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="300" width="67.06" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-5" value="问题&lt;br&gt;分析、定位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="462.94000000000005" y="300" width="83.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-7" value="恢复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="300" width="83.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-8" value="故障处理全流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="50" width="389" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-9" value="可用时间4个9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="195.39000000000004" y="115" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-11" value="减少故障(不可用)时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="412.5" y="110" width="201.87" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-13" value="故障发现时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="190" width="122.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-15" value="故障定位时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="422.2499999999999" y="190" width="123.94" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-16" value="故障恢复时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="559.65" y="190" width="123.94" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-22" value="故&lt;br&gt;障&lt;br&gt;处&lt;br&gt;理&lt;br&gt;流&lt;br&gt;程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="13.93" y="280" width="56.07" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="15.78" y="485" width="444.22" height="195" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-24" value="&lt;span style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;持&lt;br&gt;续&lt;br&gt;优&lt;br&gt;化&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="500" width="56.07" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-29" value="减少故障" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="190" width="122.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-30" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="300" width="83.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="504.52" y="485" width="295.48" height="195" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-34" value="复&lt;br&gt;盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="509.75" y="500" width="40.25" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-35" value="复盘问题发生原因" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="500" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-36" value="处理流程是否规范、是否快" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="540" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-37" value="处理流程是否规范、是否快" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="551" y="585" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-38" value="架构优化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="551.19" y="635" width="118.81" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.999;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="APUqGwPF5jsTXK6cLSHy-38" target="APUqGwPF5jsTXK6cLSHy-23" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="545.495" y="620" as="sourcePoint"/>
+                        <mxPoint x="530.0000000000001" y="765" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-41" value="流程规范" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="500" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-42" value="系统优化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="542" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="380" width="690" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-43" value="监控指标优化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="681.63" y="588" width="78.37" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-6" value="诊断工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="243.87999999999994" y="390" width="68.62" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-21" value="监控指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="390" width="85" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-25" value="运维工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="351.99999999999994" y="390" width="68.62" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-26" value="预案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="461.38" y="390" width="68.62" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-27" value="预警工单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="559.19" y="390" width="68.62" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-28" value="自动诊断、快恢" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="653.94" y="390" width="68.62" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="APUqGwPF5jsTXK6cLSHy-30" target="APUqGwPF5jsTXK6cLSHy-33" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="740" y="420" as="sourcePoint"/>
+                        <mxPoint x="749.1624999999999" y="475" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="APUqGwPF5jsTXK6cLSHy-45" value="辅助&lt;br&gt;工具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="69" y="391" width="46" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="SFrQhT1MoroFi-_XDssG-1" value="架构优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="195.39" y="560" width="85" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="SFrQhT1MoroFi-_XDssG-2" value="流程优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="195.39" y="500" width="85" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="SFrQhT1MoroFi-_XDssG-3" value="优化需求&lt;br&gt;管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="76.07" y="565" width="85" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="SFrQhT1MoroFi-_XDssG-4" value="监控优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="620" width="85" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vZOfLcIBiWCQLurunutT-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=30;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="339.5" y="134.5" as="sourcePoint"/>
+                        <mxPoint x="409.5" y="134.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="379.5" y="134.5"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NggVBixBhpYswrBnq0D2-1" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span&gt;找问题，定目标:&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;找策略、找方法:&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;改条件、做验证:&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;勤复盘、勤总结:&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+                    <mxGeometry x="2.8799999999999955" y="750" width="241" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="NggVBixBhpYswrBnq0D2-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ol style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;三高实施方法论&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="12" y="710" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NggVBixBhpYswrBnq0D2-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="APUqGwPF5jsTXK6cLSHy-23" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="221.63000000000005" y="450" as="sourcePoint"/>
+                        <mxPoint x="130" y="450" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

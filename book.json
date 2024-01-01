@@ -1,0 +1,22 @@
+{
+	"root": "./",
+	"title" : "程序员方法论",
+	"author" : "寒志",
+	"language" : "zh-hans",
+	"description" : "程序员方法论 分享程序员面临的各种情况所需的解决方法，做法",
+	"plugins":[
+		
+		"toggle-chapters",
+		"tbfed-pagefooter"
+
+
+	],
+	"pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy 寒志 2024",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+	}
+
+}

@@ -7,7 +7,8 @@
 	"plugins":[
 		
 		"toggle-chapters",
-		"tbfed-pagefooter"
+		"tbfed-pagefooter",
+		"custom-favicon"
 
 
 	],
@@ -16,7 +17,8 @@
             "copyright": "Copyright &copy 寒志 2024",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        }
+        },
+        "favicon": "static/logo.jpeg"
 	}
 
 }

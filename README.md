@@ -2,7 +2,7 @@
 欢迎来到 **《程序员方法论》**, 本项目以方法论为视角, 沉淀了技术人对技术、职业、行业、趋势、人生的思考、问题解决方法的总结。
 希望能对技术人有所帮助，同时你感兴趣可以参与进来，欢迎投稿, 一起维护文档;
 
-拒绝广告，决绝繁琐，拒绝冗余; 
+拒绝广告，拒绝繁琐，拒绝冗余; 
 
 **直达方法论: 用 最短的时间 以最简洁、最直接 的方式方法达到目标.**
 
@@ -12,4 +12,6 @@
 
 ### 程序员方法论
 **关注  公众号, 关注最新文章。**
-<iframe src="../static/banner_down.html" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="./static/banner_down.html" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
+
+

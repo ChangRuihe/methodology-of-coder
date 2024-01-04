@@ -4,13 +4,16 @@
 	"author" : "寒志",
 	"language" : "zh-hans",
 	"description" : "程序员方法论 分享程序员面临的各种情况所需的解决方法，做法",
+    "structure":{
+        "readme":"README_BOOK.md",
+        "summary":"SUMMARY.md",
+        "glossary":"GLOSSARY.md",
+        "languages":"LANGS.md" 
+    },
 	"plugins":[
-		
 		"toggle-chapters",
 		"tbfed-pagefooter",
 		"custom-favicon"
-
-
 	],
 	"pluginsConfig": {
         "tbfed-pagefooter": {

@@ -5,7 +5,7 @@
     * [1.1 成长方法论](part1/growth.md)
     * [1.2 成事方法论](part1/dothing.md)
     * [1.3 认知提升方法论-coming](part1/cognitive_growth.md)
-    * [1.4 目标执行方法论-coming](part1/get_target.md)
+    * [1.4 目标执行方法论](part1/get_target.md)
     * [1.5 执行力提升方法论-coming](part1/enhancing_execution_power.md)
     * [1.6 自洽方法论-coming](part1/self_consistency.md)
     * [1.7 心理变得强大方法论-coming](part1/psychology_stronger.md)
@@ -33,6 +33,8 @@
     * [3.10 职场管理-水平管理方法论-coming](part3/work_management_partner.md)
     * [3.11 职场管理-自我管理方法论-coming](part3/work_management_self.md)
     * [3.12 项目管理方法论-转载腾讯](part2/project_manager.md)
+
+----- 
 * [运营维护](partLast/README.md)
     * [3.1 XXX方法论-模板-coming](partLast/write_template.md)
     * [3.2 投稿-提交你的方法论-coming](partLast/merge_request.md)

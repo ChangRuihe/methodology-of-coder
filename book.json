@@ -7,8 +7,7 @@
     "structure":{
         "readme":"README_BOOK.md",
         "summary":"SUMMARY.md",
-        "glossary":"GLOSSARY.md",
-        "languages":"LANGS.md" 
+        "glossary":"GLOSSARY.md"
     },
 	"plugins":[
 		"toggle-chapters",

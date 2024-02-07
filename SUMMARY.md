@@ -32,7 +32,7 @@
     * [3.9 职场管理-向下管理方法论-coming](part3/work_management_down.md)
     * [3.10 职场管理-水平管理方法论-coming](part3/work_management_partner.md)
     * [3.11 职场管理-自我管理方法论-coming](part3/work_management_self.md)
-    * [3.12 项目管理方法论-转载腾讯](part2/project_manager.md)
+    * [3.12 项目管理方法论-转载腾讯](part3/project_manager.md)
 
 ----- 
 * [运营维护](partLast/README.md)

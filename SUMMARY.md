@@ -11,7 +11,7 @@
     * [1.7 心理变得强大方法论-coming](part1/psychology_stronger.md)
     * [1.8 成功方法论-coming](part1/success.md)
     * [1.9 阶层跃迁方法论-coming](part1/class_transition.md)
-* [第二章  技术提升](part2/README.md)
+* [第二章  职业提升](part2/README.md)
     * [2.1 架构师方法论-coming](part2/architect.md)
     * [2.1 技术总监方法论-coming](part2/cto.md)
     * [2.2 系统"三高"方法论](part2/three_high.md)
@@ -32,7 +32,14 @@
     * [3.9 职场管理-向下管理方法论-coming](part3/work_management_down.md)
     * [3.10 职场管理-水平管理方法论-coming](part3/work_management_partner.md)
     * [3.11 职场管理-自我管理方法论-coming](part3/work_management_self.md)
-    * [3.12 项目管理方法论-转载腾讯](part3/project_manager.md)
+    * [3.12 项目管理方法论-转载腾讯](part2/project_manager.md)
+* [第四章  技术技能](part4/README.md)
+    * [2.1 研发工具](part4/1devTool.md)
+            * [2.1.1 git分享-](part4/1devTool/git_share.md)
+
+
+
+>>>>>>> 909d80d (增加git分享)
 
 ----- 
 * [运营维护](partLast/README.md)
